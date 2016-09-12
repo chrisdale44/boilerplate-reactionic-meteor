@@ -48,3 +48,4 @@ webpack:react
 nathantreid:css-modules
 velocityjs:velocityjs
 webpack:postcss
+space:tracker-mobx-autorun
