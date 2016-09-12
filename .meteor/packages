@@ -42,3 +42,9 @@ standard-minifier-js@1.2.0
 ddp-rate-limiter@1.0.5
 #app-prod-security      # when this gets uncommented you also need to copy https://github.com/meteor/todos/tree/react/packages/app-prod-security in the project/packages directory
 shell-server
+webpack:webpack
+webpack:sass
+webpack:react
+nathantreid:css-modules
+velocityjs:velocityjs
+webpack:postcss
