@@ -1,7 +1,7 @@
 import React from 'react';
 import Content from '../components/Content.jsx';
 import { IonButton } from 'reactionic';
-import * as Clicks from '/imports/api/clicks/methods.js';
+import * as Clicks from '../../api/clicks/methods.js';
 
 export default class ClickMe extends React.Component {
   handleClick() {

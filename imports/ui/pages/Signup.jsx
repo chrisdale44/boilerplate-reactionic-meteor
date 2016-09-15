@@ -2,7 +2,7 @@ import { Accounts } from 'meteor/accounts-base';
 import React from 'react';
 import { Link } from 'react-router';
 import { IonList, IonItem, IonButton } from 'reactionic';
-import Content from '/imports/ui/components/Content.jsx';
+import Content from '../../ui/components/Content.jsx';
 
 export default class Join extends React.Component {
   constructor(props) {
